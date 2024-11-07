@@ -7,7 +7,7 @@
   .section-box {
     border-radius: 20px;
     height: auto;
-    width: 90%;
+    width: auto;
   }
   .content-wrap {
     padding: 20px 20px;
